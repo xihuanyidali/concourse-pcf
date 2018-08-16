@@ -1,6 +1,6 @@
 Environment Setup:
 
-1. Concourse - (Referrence: https://concoursetutorial.com/)
+Concourse - (Referrence: https://concoursetutorial.com/)
 
 1.1 Install Docker.
 
